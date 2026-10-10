@@ -25,3 +25,13 @@ This game is currently a **Work in Progress (WIP)**. While the core sorting mech
 2. Open Unity Hub and select `Add project from disk`.
 3. Select the `GoldenJunk` root folder.
 4. Open the main scene located in the `Assets` folder and press Play!
+5.
+6.## Screenshots
+  <img width="1366" height="768" alt="Ekran görüntüsü_2026-10-10_04-16-36" src="https://github.com/user-attachments/assets/b8f72025-1664-40ff-8ea0-cf19dce30199" />
+  
+<img width="1366" height="768" alt="Ekran görüntüsü_2026-10-10_04-16-46" src="https://github.com/user-attachments/assets/6e9ea01e-1b42-4274-9fe6-b90293ad34e2" />
+
+<img width="1366" height="768" alt="Ekran görüntüsü_2026-10-10_04-17-07" src="https://github.com/user-attachments/assets/a3cf331d-c55f-433b-b19a-8b0f920d6b62" />
+
+<img width="1366" height="768" alt="Ekran görüntüsü_2026-10-10_04-17-18" src="https://github.com/user-attachments/assets/720e86b3-3737-4596-87f7-ccd8e32fdf33" />
+
